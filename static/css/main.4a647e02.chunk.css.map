@@ -1,0 +1,1 @@
+{"version":3,"sources":["Info.css","main.css"],"names":[],"mappings":"AAAA,MACE,aAAc,CACd,SAAU,CACV,eAAgB,CAChB,gBACF,CCLA,OACI,6BACJ","file":"main.4a647e02.chunk.css","sourcesContent":[".Info {\n  display: block;\n  width: 30%;\n  max-width: 240px;\n  margin: 20px auto;\n}\n",".tobot{\n    min-height: calc(100vh - 80px);\n}"]}

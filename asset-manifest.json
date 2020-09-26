@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/laundress/static/css/main.4a647e02.chunk.css",
+    "main.js": "/laundress/static/js/main.07a177ee.chunk.js",
+    "main.js.map": "/laundress/static/js/main.07a177ee.chunk.js.map",
+    "runtime-main.js": "/laundress/static/js/runtime-main.d6320453.js",
+    "runtime-main.js.map": "/laundress/static/js/runtime-main.d6320453.js.map",
+    "static/css/2.09e62520.chunk.css": "/laundress/static/css/2.09e62520.chunk.css",
+    "static/js/2.e933b4be.chunk.js": "/laundress/static/js/2.e933b4be.chunk.js",
+    "static/js/2.e933b4be.chunk.js.map": "/laundress/static/js/2.e933b4be.chunk.js.map",
+    "index.html": "/laundress/index.html",
+    "precache-manifest.d6e4ddd4c37d78426b6ccd82e23e7756.js": "/laundress/precache-manifest.d6e4ddd4c37d78426b6ccd82e23e7756.js",
+    "service-worker.js": "/laundress/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/laundress/static/css/2.09e62520.chunk.css.map",
+    "static/css/main.4a647e02.chunk.css.map": "/laundress/static/css/main.4a647e02.chunk.css.map",
+    "static/js/2.e933b4be.chunk.js.LICENSE.txt": "/laundress/static/js/2.e933b4be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6320453.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.e933b4be.chunk.js",
+    "static/css/main.4a647e02.chunk.css",
+    "static/js/main.07a177ee.chunk.js"
+  ]
+}
