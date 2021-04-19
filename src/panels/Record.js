@@ -22,7 +22,7 @@ const Record = props => (
 			Запись
 		</PanelHeader>
 		<FormLayout>
-			<Select top="День недели">
+			<Select top="День недели" placeholder="День недели">
               <option value="1day">Понедельник</option>
               <option value="2day">Вторник</option>
 			  <option value="3day">Среда</option>
