@@ -23,19 +23,19 @@ const Record = props => (
 		</PanelHeader>
 		<FormLayout>
 			<Select top="День недели" placeholder="День недели">
-              <option value="1day">Понедельник</option>
-              <option value="2day">Вторник</option>
-			  <option value="3day">Среда</option>
-			  <option value="4day">Четверг</option>
-			  <option value="5day">Пятница</option>
-			  <option value="6day">Суббота</option>
-			  <option value="7day">Воскресенье</option>
+              <option value="d1">Понедельник</option>
+              <option value="d2">Вторник</option>
+			  <option value="d3">Среда</option>
+			  <option value="d4">Четверг</option>
+			  <option value="d5">Пятница</option>
+			  <option value="d6">Суббота</option>
+			  <option value="d7">Воскресенье</option>
             </Select>
 			<Select top="Время" placeholder="Время">
-              <option value="1time">8:45-10:45</option>
-              <option value="2time">12:00-14:00</option>
-			  <option value="3time">16:00-18:00</option>
-			  <option value="4time">20:00-22:00</option>
+              <option disabled="true" value="t1">8:45-10:45</option>
+              <option value="t2">12:00-14:00</option>
+			  <option value="t3">16:00-18:00</option>
+			  <option value="t4">20:00-22:00</option>
 			  
             </Select>
 			<Checkbox>Согласен с <Link onClick={props.go} data-to="rules">правилами</Link></Checkbox>
